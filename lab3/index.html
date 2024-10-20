@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Student Survey Form</title>
+</head>
+<body>
+
+<h1>Student Survey Form</h1>
+
+<section><br>
+<h2>Personal Information</h2>
+    <fieldset>
+		
+        <legend>Provide Your Details</legend>
+        <label>Full Name:</label><br>
+        <input type="text" placeholder="Enter your full name"><br><br>
+
+        <label>Email:</label><br>
+        <input type="email" placeholder="Enter your email"><br><br>
+
+        <label>Password:</label><br>
+        <input type="password" placeholder="Enter a password"><br><br>
+
+        <label>Age:</label><br>
+        <input type="text" placeholder="Enter your age"><br><br>
+
+        <label>Date of Birth:</label><br>
+        <input type="date"><br><br>
+
+        <label>Gender:</label><br>
+        <input type="radio" name="gender" value="male"> Male<br>
+        <input type="radio" name="gender" value="female"> Female<br>
+        <input type="radio" name="gender" value="other"> Other<br><br>
+
+        <label>Languages Known:</label><br>
+        <input type="checkbox" name="language" value="english"> English<br>
+        <input type="checkbox" name="language" value="spanish"> Spanish<br>
+        <input type="checkbox" name="language" value="french"> French<br><br>
+
+        <label>Country:</label><br>
+        <select>
+            <option>Select your country</option>
+            <option>USA</option>
+            <option>Canada</option>
+            <option>UK</option>
+            <option>Australia</option>
+        </select><br><br>
+    </fieldset>
+</section>
+<h2>College Subjects</h2>
+<section>
+    <fieldset>
+        <legend>Select Your Subject</legend>
+        <label>Select your subjects:</label><br>
+        <select multiple>
+            <option>Mathematics</option>
+            <option>Computer Science</option>
+            <option>Physics</option>
+            <option>Chemistry</option>
+            <option>Biology</option>
+        </select><br><br>
+
+        <label>Rate your interest in Computer Science:</label><br>
+        <input type="range" min="1" max="10" value="5"><br><br>
+    </fieldset>
+</section>
+<h2>Skills Assessment</h2>
+<section>
+    <fieldset>
+        <legend>Assess Your Skills</legend>
+        <label>Describe your skills:</label><br>
+        <textarea rows="4" placeholder="List your skills here..."></textarea><br><br>
+
+        <label>Upload your resume:</label><br>
+        <input type="file"><br><br>
+
+        <label>Pick your favorite color:</label><br>
+        <input type="color"><br><br>
+
+        <label>Preferred study time:</label><br>
+        <input type="time"><br><br>
+    </fieldset>
+</section>
+
+<input type="submit" value="Submit Survey"><br><br>
+
+<div>Â© 2024 Student Survey. All rights reserved.</div>
+
+</body>
+</html>
