@@ -1,0 +1,3228 @@
+                        media html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+.nobr {
+    white-space: nowrap;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #0076A8;
+    text-decoration: none;
+    transition: color 0.5s ease-out;
+}
+
+a:visited {
+    color: #0076A8;
+    text-decoration: none;
+    transition: color 0.5s ease-out;
+}
+
+a:hover {
+    color: #00A1E4;
+    text-decoration: none;
+    transition: color 0.5s ease-out;
+}
+
+a:active {
+    color: #00A1E4;
+    text-decoration: none;
+    transition: color 0.5s ease-out;
+}
+
+article a:link {
+    border-bottom: 1px solid #337AB7;
+    transition: color 0.5s ease-out,border-color 1s ease-out;
+}
+
+article a:visited {
+    border-bottom: 1px solid #337AB7;
+    transition: color 0.5s ease-out,border-color 1s ease-out;
+}
+
+article a:hover {
+    border-bottom: 1px solid #00A1E4;
+    transition: color 0.5s ease-out,border-color 1s ease-out;
+}
+
+article a:active {
+    border-bottom: 1px solid #00A1E4;
+    transition: color 0.5s ease-out,border-color 1s ease-out;
+}
+
+article h2 {
+    margin: 3rem 0;
+}
+
+article h3,article h4 {
+    margin: 2rem 0;
+}
+
+.form-group .view-id-frontpage {
+    display: none !important;
+}
+
+.region-sidebar-second {
+    margin-top: 3rem;
+}
+
+.region-sidebar-second h3 {
+    font-size: 3rem;
+}
+
+.ciot-quote {
+    background: #f6f6f6;
+    padding: 1rem 0rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    border-left: #252775 5px solid;
+    line-height: 2.8rem;
+}
+
+#block-vstupnikupromo .btn.btn-primary {
+    width: 100%;
+    font-size: 16px;
+}
+
+.visegradfund a {
+    border-bottom: none !important;
+}
+
+.view-logo-unit.view-id-logo_unit img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+}
+
+.view-id-pochesni_profesory_lvivskoi_politekhniky.view-display-id-page_1 img {
+    display: block;
+    margin: 0 auto;
+    float: initial;
+}
+
+.view-id-pochesni_profesory_lvivskoi_politekhniky.view-display-id-page_1 .view-header {
+    margin-bottom: 25px;
+}
+
+@media only screen and (min-width : 360px) {
+    .field.field--name-field-pdf-full-text-file iframe.pdf {
+        min-height:350px;
+    }
+}
+
+@media only screen and (min-width : 480px) {
+    .field.field--name-field-pdf-full-text-file iframe.pdf {
+        min-height:450px;
+    }
+}
+
+@media only screen and (min-width : 768px) {
+    .field.field--name-field-pdf-full-text-file iframe.pdf {
+        min-height:550px;
+    }
+}
+
+@media only screen and (min-width : 992px) {
+    .field.field--name-field-pdf-full-text-file iframe.pdf {
+        min-height:700px;
+    }
+}
+
+@media only screen and (min-width : 1200px) {
+    .field.field--name-field-pdf-full-text-file iframe.pdf {
+        min-height:870px;
+    }
+}
+
+p.explain_color {
+    border: 1px solid #5f5f5f;
+    background-color: #5E8C5D;
+    text-align: center;
+    margin-top: 10px;
+    max-width: 500px;
+    min-height: 50px;
+    line-height: 50px;
+    margin: 20px auto;
+}
+
+#expltab table {
+    border: 2px solid #5f5f5f;
+    min-height: 90px;
+    width: 80%;
+    margin: auto;
+}
+
+#expltab > div {
+    margin-bottom: 10px;
+}
+
+#expltab .explain_page_table td {
+    border: 1px dotted #5f5f5f;
+    padding: 3px;
+    text-align: center;
+}
+
+.explain_timetable {
+    border: 2px solid #5f5f5f;
+    text-align: center;
+    margin: 10px auto;
+    min-width: 35%;
+}
+
+.explain_timetable td {
+    border: 1px dotted;
+    padding: 3px;
+    text-align: center;
+}
+
+.explain_timetable th {
+    border: 1px dotted;
+    padding: 3px;
+    text-align: center;
+    background-color: #f6f6f6;
+    color: #5f5f5f;
+}
+
+#block-eduqaslogo .col-md-6 {
+    padding-left: 0px;
+}
+
+ul.pidrozdil {
+    background: #f9f9f9;
+    padding-bottom: 0px;
+    padding-top: 6px;
+}
+
+.col-sm-4.stud-border {
+    margin-bottom: 50px;
+}
+
+.fa-3x {
+    color: #303192;
+}
+
+.stud-border h3 {
+    font-family: 'Roboto Condensed';
+    text-align: center;
+}
+
+.stud-border ul li {
+    list-style: none;
+}
+
+.col-sm-4.stud-border ul li a {
+    display: block;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    border-bottom: 1px solid #ededed;
+    margin-left: -10px;
+}
+
+p.po-d {
+    font-size: 1.6rem;
+}
+
+.view-id-active_projects.view-display-id-page_1 .col-sm-8 {
+    margin-bottom: 20px;
+}
+
+.col-sm-4.po {
+    background: #f6f6f6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.col-sm-4.po img {
+    float: inherit !important;
+}
+
+.view-id-active_projects.view-display-id-page_1 .po img {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.card-header .btn-accordion {
+    text-align: left;
+    border: 1px solid #ccc;
+    white-space: break-spaces;
+    background: #F7F7F7;
+}
+
+.row.g-0.rowcard {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.rowcard .col-md-4 {
+    text-align: center;
+    padding: 35px;
+}
+
+.rowcard .col-md-8 {
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.field-content.personality-photo {
+    margin-top: 3rem;
+}
+
+@media only screen and (min-width : 480px) {
+    .vypusknyky {
+        width:310px;
+    }
+
+    .col-12.col-sm-6.col-md-3.views-col.col-3 {
+        clear: both;
+    }
+}
+
+@media only screen and (min-width : 768px) {
+    .col-12.col-sm-6.col-md-3.views-col.col-3 {
+        clear:both;
+    }
+
+    .vypusknyky {
+        width: auto;
+    }
+}
+
+@media only screen and (min-width : 992px) {
+    .col-12.col-sm-6.col-md-3.views-col.col-3 {
+        clear:none;
+    }
+}
+
+.logo svg {
+    height: 84px;
+    width: auto;
+    fill: #4D4D4D;
+    transition: fill 1s ease-out;
+}
+
+.logo svg:hover {
+}
+
+.logo h1,.logo .site-name {
+    display: none;
+}
+
+.name {
+    display: none;
+}
+
+.navbar {
+    margin-bottom: 5px;
+}
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border: none;
+}
+
+.navbar-header {
+    position: relative;
+}
+
+.navbar-default .navbar-nav li a:link {
+    color: #444444;
+}
+
+.navbar-default .navbar-nav li a:visited {
+    color: #444444;
+}
+
+.navbar-default .navbar-nav li a:hover {
+    color: #00A1E4;
+}
+
+.navbar-default .navbar-nav li a:active {
+    color: #00A1E4;
+}
+
+.navbar-default .navbar-toggle {
+    float: none;
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+    right: 0;
+    margin-top: 0;
+    border-radius: 1px;
+    border-color: #0076A8;
+}
+
+.navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
+    background-color: #ddd;
+    border-color: #ddd;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #0076A8;
+}
+
+.navbar-default .navbar-toggle:hover .icon-bar,.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #888;
+}
+
+#navbar .container {
+    position: relative;
+}
+
+.navbar-collapse {
+    background: #f8f8f8;
+    border-top: none;
+}
+
+.navbar-collapse.in:before {
+    width: 100%;
+    content: "";
+    height: 2px;
+    background-image: -webkit-gradient(linear,left bottom,right bottom,color-stop(0%,#a7ce39),color-stop(50%,#303192),color-stop(100%,#00a0e3));
+}
+
+.region-navigation {
+    text-align: center;
+    padding: 6px 0 0 0;
+}
+
+.navbar .logo {
+    float: none !important;
+    margin: 6px 0px 0px 0px;
+    padding: 0px;
+    line-height: 0;
+}
+
+a.logo:link,a.logo:visited {
+    text-decoration: none;
+    color: rgb(46,49,146);
+    transition: color 3s;
+}
+
+a.logo:hover,a.logo:active {
+    text-decoration: none;
+    color: rgb(0,161,228);
+    transition: color 3s;
+}
+
+#block-lpnu-peremikachmovi-2 ul {
+    padding: 0;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#block-lpnu-peremikachmovi-2 ul li {
+    display: inline;
+    list-style: none;
+}
+
+#block-lpnu-peremikachmovi-2 a {
+    padding: 5px;
+}
+
+#block-lpnu-peremikachmovi-2 a.is-active {
+    color: #444;
+    font-weight: bold;
+}
+
+#block-lpnu-peremikachmovi-2 a:link {
+    background: #f6f6f6;
+}
+
+#block-lpnu-peremikachmovi-2 a:visited {
+    background: #f6f6f6;
+}
+
+#block-lpnu-peremikachmovi-2 a:hover {
+    background: #dddddd;
+}
+
+#block-lpnu-peremikachmovi-2 a:active {
+    background: #dddddd;
+}
+
+@media only screen and (min-width : 480px) {
+}
+
+@media only screen and (min-width : 768px) {
+    .navbar-collapse {
+        background:none;
+    }
+
+    .region-navigation-collapsible {
+        border-top: none;
+        background: #fff;
+    }
+
+    .region-navigation {
+        padding: 0px;
+    }
+
+    ul.menu--main {
+        width: 100%;
+        text-align: center;
+        border-top: 1px solid rgb(220,220,220);
+    }
+
+    .path-frontpage ul.menu--main {
+        padding-top: 10px;
+        border-top: none;
+    }
+
+    ul.menu--main li {
+    }
+
+    #block-lpnu-main-menu .first-level {
+    }
+
+    #block-lpnu-main-menu .expanded {
+    }
+
+    #block-lpnu-main-menu .admission,#block-lpnu-main-menu .students,#block-lpnu-main-menu .staff,#block-lpnu-main-menu .alumni {
+        background: #fff;
+    }
+
+    #block-lpnu-main-menu .admission {
+        padding: 15px 5px 15px 10px;
+    }
+
+    #block-lpnu-main-menu .students,#block-lpnu-main-menu .staff {
+        padding: 15px 5px 15px 5px;
+    }
+
+    #block-lpnu-main-menu .alumni {
+        padding: 15px 10px 15px 5px;
+    }
+
+    #block-lpnu-main-menu .is-active {
+        font-weight: bold;
+    }
+
+    .navbar-default {
+        background-color: rgba(245,245,245,0.9);
+    }
+
+    .navbar-default:after {
+        width: 100%;
+        content: "";
+        height: 3px;
+        background-image: -webkit-gradient(linear,left bottom,right bottom,color-stop(0%,#a7ce39),color-stop(50%,#303192),color-stop(100%,#00a0e3));
+    }
+
+    .path-frontpage .navbar-default:after {
+        display: none;
+    }
+
+    .logo h1,.logo .site-name {
+        position: absolute;
+        left: 155px;
+        width: 300px;
+        height: auto;
+        top: 50%;
+        transform: translate(0,-50%);
+        display: block;
+        text-transform: uppercase;
+        margin: 0;
+        font-size: 1.8rem;
+        letter-spacing: 1px;
+        line-height: 2.4rem;
+    }
+
+    .logo h1 span,.logo .site-name span {
+        background: rgb(46,49,146);
+        transition: background 3s;
+    }
+
+    a.logo {
+        max-width: 162px;
+    }
+
+    a.logo:link,a.logo:visited {
+        text-decoration: none;
+        color: #F0F0F0;
+        transition: color 3s;
+        transition: background 3s;
+    }
+
+    a.logo:hover,a.logo:active {
+        text-decoration: none;
+        color: #fff;
+        background: rgb(0,161,228);
+        transition: color 3s;
+    }
+
+    a.logo:hover span,a.logo:active span,a.logo:hover span,a.logo:active span {
+        background: rgb(0,161,228);
+        color: #fff;
+        transition: color 3s;
+        transition: background 3s;
+    }
+
+    .lang-uk .logo h1,.lang-uk .logo .site-name {
+        width: 30rem;
+    }
+
+    .lang-en .logo h1,.lang-en .logo .site-name {
+        width: 20rem;
+    }
+
+    .lang-de .logo h1,.lang-de .logo .site-name {
+        width: 25rem;
+    }
+
+    .lang-es .logo h1,.lang-es .logo .site-name {
+        width: 25rem;
+    }
+
+    .lang-fr .logo h1,.lang-fr .logo .site-name {
+        width: 25rem;
+    }
+
+    .lang-it .logo h1,.lang-it .logo .site-name {
+        width: 25rem;
+    }
+
+    .lang-pl .logo h1,.lang-pl .logo .site-name {
+        width: 25rem;
+    }
+
+    .region-navigation {
+        text-align: left;
+    }
+
+    .navbar .logo {
+        float: left !important;
+        padding: 15px 20px;
+        margin: 0;
+        background: rgb(46,49,146);
+        transition: background 3s;
+    }
+
+    .navbar .logo:hover {
+        background: rgb(0,161,228);
+        transition: background 3s;
+    }
+
+    #block-lpnu-search {
+        position: absolute;
+        top: 50px;
+        right: 15px;
+    }
+
+    #block-lpnu-peremikachmovi-2 {
+    }
+
+    #block-lpnu-peremikachmovi-2 ul.links {
+        text-align: right;
+        margin-top: 0;
+        padding: 14px 35px 14px 0;
+    }
+}
+
+@media only screen and (min-width : 992px) {
+    .navbar .logo {
+        padding:15px 30px;
+    }
+
+    .logo h1,.logo .site-name {
+        left: 180px;
+        font-size: 2rem;
+        letter-spacing: 2px;
+        line-height: 2.6rem;
+    }
+
+    #block-lpnu-main-menu .admission {
+        padding: 15px 5px 15px 20px;
+    }
+
+    #block-lpnu-main-menu .students,#block-lpnu-main-menu .staff {
+        padding: 15px 5px 15px 15px;
+    }
+
+    #block-lpnu-main-menu .alumni {
+        padding: 15px 20px 15px 15px;
+    }
+
+    .lang-uk .logo h1,.lang-uk .logo .site-name {
+        width: 35rem;
+    }
+
+    .lang-en .logo h1,.lang-en .logo .site-name {
+        width: 25rem;
+    }
+
+    .lang-de .logo h1,.lang-de .logo .site-name {
+        width: 30rem;
+    }
+
+    .lang-es .logo h1,.lang-es .logo .site-name {
+        width: 30rem;
+    }
+
+    .lang-fr .logo h1,.lang-fr .logo .site-name {
+        width: 30rem;
+    }
+
+    .lang-it .logo h1,.lang-it .logo .site-name {
+        width: 30rem;
+    }
+
+    .lang-pl .logo h1,.lang-pl .logo .site-name {
+        width: 30rem;
+    }
+}
+
+@media only screen and (min-width : 1200px) {
+    .region-navigation-collapsible {
+    }
+
+    .path-frontpage .navbar .logo {
+        padding: 15px 30px;
+    }
+
+    .path-frontpage .logo svg {
+        height: 100px;
+    }
+
+    .path-frontpage .logo h1,.path-frontpage .logo .site-name {
+        font-size: 2.4rem;
+        letter-spacing: 2px;
+        line-height: 3.1rem;
+    }
+
+    .lang-uk .logo h1,.lang-uk .logo .site-name {
+        width: 40rem;
+    }
+
+    .lang-en .logo h1 {
+        width: 30rem;
+    }
+
+    .lang-en .logo .site-name {
+        width: 25rem;
+    }
+
+    .lang-de .logo h1 {
+        width: 35rem;
+    }
+
+    .lang-de .logo .site-name {
+        width: 30rem;
+    }
+
+    .lang-es .logo h1,.lang-es .logo .site-name {
+        width: 35rem;
+    }
+
+    .lang-fr .logo h1,.lang-fr .logo .site-name {
+        width: 35rem;
+    }
+
+    .lang-it .logo h1,.lang-it .logo .site-name {
+        width: 35rem;
+    }
+
+    .lang-pl .logo h1,.lang-pl .logo .site-name {
+        width: 35rem;
+    }
+
+    .path-frontpage .logo h1,.path-frontpage .logo .site-name {
+        left: 200px;
+    }
+}
+
+#block-lpnu-search {
+    padding: 0;
+}
+
+#block-lpnu-search .form-control,#block-lpnu-search .btn,#search-form .form-control,#search-form .btn {
+    border-radius: 0;
+}
+
+#block-lpnu-search .btn-primary {
+}
+
+@media only screen and (min-width : 768px) {
+    #block-lpnu-search {
+        padding-right:35px;
+    }
+}
+
+@media only screen and (min-width : 1200px) {
+    #block-lpnu-search {
+        padding-right:35px;
+    }
+
+    .path-frontpage #block-lpnu-search {
+        padding-top: 12px;
+    }
+}
+
+.dropdown-menu {
+    font-size: 1.4rem;
+}
+
+.dropdown-menu li a {
+    padding: 4px 20px;
+}
+
+.navbar-nav li a {
+}
+
+ul.navbar-nav li.expanded {
+    border-bottom: 1px solid rgb(220,220,220);
+}
+
+.dropdown-menu .active-trail a:link,.dropdown-menu .active-trail a:visited,.dropdown-menu .active-trail a:hover,.dropdown-menu .active-trail a:active {
+    background: #e7e7e7;
+}
+
+#block-lpnu-main-menu {
+    font-size: 1.8rem;
+}
+
+@media only screen and (min-width : 360px) {
+    .dropdown-menu {
+        font-size:1.6rem;
+    }
+}
+
+@media only screen and (min-width : 480px) {
+}
+
+@media only screen and (min-width : 768px) {
+    #block-lpnu-main-menu {
+        font-size:1.4rem;
+    }
+
+    .navbar-nav li a {
+        padding: 15px 8px;
+    }
+
+    .lang-de .navbar-nav li a.first-level {
+        padding: 15px 6px;
+    }
+
+    .dropdown-menu {
+        font-size: 1.4rem;
+    }
+
+    .dropdown-menu li a {
+        padding: 4px 12px;
+    }
+
+    ul.navbar-nav li.expanded {
+        border-bottom: none;
+    }
+
+    ul.navbar-nav li.expanded ul.dropdown-menu {
+        margin-top: -1px;
+    }
+}
+
+@media only screen and (min-width : 992px) {
+    #block-lpnu-main-menu {
+        font-size:1.6rem;
+    }
+
+    .navbar-nav li a {
+        padding: 15px 15px;
+    }
+
+    .lang-de .navbar-nav li a.first-level {
+        padding: 15px 15px;
+    }
+
+    .dropdown-menu {
+        font-size: 1.6rem;
+    }
+
+    .dropdown-menu li a {
+        padding: 4px 20px;
+    }
+
+    #block-lpnu-search {
+    }
+}
+
+@media only screen and (min-width : 1200px) {
+    #block-lpnu-main-menu {
+        font-size:2rem;
+    }
+}
+
+#hero {
+    position: relative;
+    background-position: center center !important;
+    width: 100% !important;
+    background-size: cover !important;
+    min-height: 200px;
+    background: rgb(46,49,146);
+}
+
+#hero .container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto
+}
+
+h1.group-hero-project-desktop {
+    display: none;
+}
+
+.group-hero-project-noimage {
+    display: none;
+}
+
+.group-hero-project .container {
+    position: relative;
+    height: 100%;
+}
+
+.group-hero-project-dark h1 {
+    color: #fff;
+}
+
+.group-hero-project-dark .container {
+}
+
+#hero .group-hero-project-dark {
+}
+
+.group-hero-project-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.group-hero-project-logo img {
+    max-width: 100%;
+}
+
+.shadow {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(to bottom,rgba(46,49,146,0),rgba(46,49,146,1));
+}
+
+#hero h2 {
+    text-align: center;
+    margin: 0 0 2.4rem 0;
+    font-size: 2.2rem;
+}
+
+.shadow {
+    min-height: 120px;
+}
+
+#hero a {
+}
+
+#hero a:link {
+    color: #fff;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#hero a:visited {
+    color: #fff;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#hero a:hover {
+    color: #00A1E4;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#hero a:active {
+    color: #00A1E4;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#block-lpnushortcutstop4 {
+    background: rgb(46,49,146);
+}
+
+#block-lpnushortcutstop4:before {
+    width: 100%;
+    content: "";
+    height: 2px;
+    background-image: -webkit-gradient(linear,left bottom,right bottom,color-stop(0%,#2E3192),color-stop(50%,#fff),color-stop(100%,#2E3192));
+}
+
+#block-lpnushortcutstop4 .col-xs-6 {
+    position: relative;
+}
+
+#block-lpnushortcutstop4 h2 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+#block-lpnushortcutstop4 h2 span {
+}
+
+#block-lpnushortcutstop4 h2 svg {
+    color: #00A1E4;
+    margin-right: 0.5rem;
+}
+
+.shortcut-1,.shortcut-4 {
+    background: #252775;
+}
+
+#block-lpnushortcutstop4 .alert-shortcut {
+    color: #FFA8A8;
+}
+
+#block-lpnushortcutstop4 .alert-shortcut svg {
+    color: #FFA8A8;
+}
+
+#block-lpnushortcutstop4 a:link {
+    color: #fff;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#block-lpnushortcutstop4 a:visited {
+    color: #fff;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#block-lpnushortcutstop4 a:hover {
+    color: #00A1E4;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#block-lpnushortcutstop4 a:active {
+    color: #00A1E4;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#featured_container a:link {
+    color: #fff;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#featured_container a:visited {
+    color: #fff;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#featured_container a:hover {
+    color: #fff;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#featured_container a:active {
+    color: #fff;
+    text-decoration: none;
+    transition: color 3s ease-out;
+}
+
+#featured_container a:link img,#featured_container a:visited img {
+    opacity: 0.85;
+    transition: opacity 1s ease-out;
+}
+
+#featured_container a:hover img,#featured_container a:active img {
+    opacity: 1;
+    transition: opacity 1s ease-out;
+}
+
+#block-lpnushortcutstop4 .col-xs-6 {
+    min-height: 104px;
+}
+
+#block-lpnushortcutstop4 h2 {
+    font-size: 1.5rem;
+}
+
+#logos_container {
+    padding: 0.75rem 0;
+}
+
+#logos_container a {
+    text-align: center;
+}
+
+#logos_container img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+}
+
+#featured_container {
+    background: #C2C2C2;
+}
+
+#featured_container:before {
+    display: block;
+    width: 100%;
+    content: "";
+    height: 2px;
+    background-image: -webkit-gradient(linear,left bottom,right bottom,color-stop(0%,#979797),color-stop(50%,#C2C2C2),color-stop(100%,#979797));
+}
+
+#featured_container .col-sm-6 div {
+    position: relative;
+    margin-bottom: 3rem;
+}
+
+#featured_container h2 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    padding: 30px;
+    border-bottom: 2px solid #fff;
+    font-size: 2rem;
+}
+
+#featured_container h2 span {
+}
+
+#featured_container .shadow_featured {
+    position: absolute !important;
+    margin-bottom: 0 !important;
+    bottom: 0;
+    left: 0;
+    min-height: 75%;
+    width: 100%;
+    background: linear-gradient(to bottom,rgba(255,255,255,0),rgba(255,255,255,0.85));
+}
+
+#featured_container a:link .shadow_featured,#featured_container a:visited .shadow_featured {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    transition: opacity 2s ease-out;
+}
+
+#featured_container a:hover .shadow_featured,#featured_container a:active .shadow_featured {
+    opacity: 0.1;
+    filter: alpha(opacity=10);
+    transition: opacity 2s ease-out;
+}
+
+#featured_container a:link h2 span,#featured_container a:visited h2 span {
+    background: #252775;
+    transition: background 2s ease-out;
+}
+
+#featured_container a:hover h2 span,#featured_container a:active h2 span {
+    background: #00A1E4;
+    transition: background 2s ease-out;
+}
+
+#events_container {
+    background: #252775;
+    padding: 3rem 0 0 0;
+}
+
+#events_container .col-sm-4 {
+    margin-bottom: 3rem;
+}
+
+#events_container .col-3,#events_container .col-5 {
+    clear: left;
+}
+
+#events_container .col-sm-4 .views-field {
+    background: #fff;
+}
+
+.event_date {
+    padding: 15px;
+    border-bottom: 1px dotted #252775;
+    text-align: center;
+}
+
+#events_container h2 {
+    margin: 0 0 30px 0;
+    font-size: 2rem;
+}
+
+#events_container h2 a:link,#events_container h2 a:visited {
+    color: #fff;
+    transition: color 2s ease-out,border-bottom 2s ease-out;
+    border-bottom: 2px solid #fff;
+}
+
+#events_container h2 a:hover,#events_container h2 a:active {
+    color: #00A1E4;
+    transition: color 2s ease-out,border-bottom 2s ease-out;
+    border-bottom: 2px solid #00A1E4;
+}
+
+#events_container h3 {
+    padding: 15px;
+    margin: 0;
+    font-size: 1.8rem;
+    background: #f6f6f6;
+}
+
+#events_container a:link img,#events_container a:visited img {
+    opacity: 0.85;
+    filter: alpha(opacity=85);
+    transition: opacity 2s ease-out;
+}
+
+#events_container a:hover img,#events_container a:active img {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    transition: opacity 2s ease-out;
+}
+
+.path-frontpage {
+    margin-top: 30px;
+}
+
+.main-container {
+}
+
+#block-views-block-front-page-news-block-3,.view-id-unit_news {
+}
+
+#block-views-block-front-page-news-block-3 h2 {
+    font-size: 2.2rem;
+    margin: 30px 0 30px 0;
+}
+
+#block-views-block-front-page-news-block-3 h2 a:link,#block-views-block-front-page-news-block-3 h2 a:visited {
+    transition: color 2s ease-out,border-bottom 2s ease-out;
+    border-bottom: 2px solid #0076A8;
+}
+
+#block-views-block-front-page-news-block-3 h2 a:hover,#block-views-block-front-page-news-block-3 h2 a:active {
+    transition: color 2s ease-out,border-bottom 2s ease-out;
+    border-bottom: 2px solid #00A1E4;
+}
+
+.news_teaser {
+    color: #444444;
+}
+
+.news_teaser img {
+    margin-bottom: -12px;
+    border-bottom: 2px solid #757575;
+    position: relative;
+    z-index: 1;
+}
+
+.news_teaser span {
+    background: #757575;
+    color: #fff;
+    padding: 5px 7px;
+    margin-left: 15px;
+    position: relative;
+    z-index: 2;
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.vypusknyky img {
+    margin-bottom: -12px;
+    border-bottom: 2px solid #757575;
+    position: relative;
+    z-index: 1;
+}
+
+.vypusknyky span {
+    background: #6d6b6b;
+    color: #fff;
+    padding: 5px 7px;
+    position: relative;
+    z-index: 2;
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    top: -3px;
+}
+
+.page-node-type-personality .field--name-field-year-of-graduation,.page-node-type-personality .field--name-field-more-information {
+    clear: both;
+}
+
+.background-v {
+    padding: 8px 10px 17px 10px;
+    color: #333;
+    font-family: 'Roboto';
+}
+
+.background-v h4 {
+    margin-bottom: 17px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family: 'Roboto Condensed';
+}
+
+.background-v p {
+    font-size: 14px;
+}
+
+.view-id-active_projects .news_teaser span {
+    top: -12px;
+}
+
+#block-views-block-front-page-news-block-3 .col-12 div,.view-id-unit_news .col-sm-6 div,.path-projects .col-sm-6 div {
+    background: #f6f6f6;
+}
+
+#block-views-block-front-page-news-block-3 .col-3 {
+    clear: left;
+}
+
+.view-id-unit_news .row:after {
+    clear: none;
+}
+
+#block-views-block-front-page-news-block-3 h3,.view-id-unit_news h3 {
+    font-size: 1.8rem;
+    line-height: 2.1rem;
+    font-weight: bold;
+    margin: 15px 0 30px 0;
+    padding: 0 15px 15px 15px;
+}
+
+.view-active-projects h4 {
+    margin: 10px 0 30px 0;
+    padding: 0 15px 15px 15px;
+}
+
+.view-active-projects h3,.view-vypusknyky h3 {
+    margin-bottom: 28px;
+    border-bottom: 1px dotted #252775;
+    padding-bottom: 5px;
+}
+
+#block-views-block-front-page-news-block-3 a:link img,#block-views-block-front-page-news-block-3 a:visited img,.view-id-unit_news a:link img,.view-id-unit_news a:visited img {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    transition: opacity 2s ease-out;
+}
+
+#block-views-block-front-page-news-block-3 a:hover img,#block-views-block-front-page-news-block-3 a:active img,.view-id-unit_news a:hover img,.view-id-unit_news a:active img {
+    opacity: 0.65;
+    filter: alpha(opacity=65);
+    transition: opacity 2s ease-out;
+}
+
+@media only screen and (min-width : 480px) {
+    #hero {
+        min-height:300px;
+    }
+
+    .shadow {
+        min-height: 160px;
+    }
+
+    #hero h2 {
+        margin: 0 0 3rem 0;
+        font-size: 3.4rem;
+    }
+
+    #block-lpnushortcutstop4 .col-xs-6 {
+        min-height: 106px;
+    }
+
+    #block-lpnushortcutstop4 h2 {
+        font-size: 1.7rem;
+    }
+
+    #featured_container h2 {
+        font-size: 3rem;
+    }
+
+    #events_container h2,#block-views-block-front-page-news-block-3 h2 {
+        font-size: 2.4rem;
+    }
+}
+
+@media only screen and (min-width : 768px) {
+    #hero {
+        min-height:400px;
+        margin-top: -55px;
+        border-top: 1px solid rgb(46,49,146);
+    }
+
+    #hero.group-hero-project {
+        margin-top: -58px;
+    }
+
+    .group-hero-project-content {
+        margin-top: 20px;
+    }
+
+    .shadow {
+        min-height: 215px;
+    }
+
+    #hero h2 {
+        font-size: 4rem;
+        margin: 0 0 3rem 0;
+    }
+
+    #block-lpnushortcutstop4 .col-xs-6 {
+        min-height: 110px;
+    }
+
+    #block-lpnushortcutstop4 h2 {
+        font-size: 1.5rem;
+    }
+
+    .shortcut-1,.shortcut-3 {
+        background: none;
+    }
+
+    .shortcut-2,.shortcut-4 {
+        background: #252775;
+    }
+
+    #featured_container h2 {
+        font-size: 2rem;
+    }
+
+    #events_container h2 {
+        margin: 15px 0 30px 0;
+        font-size: 2.4rem;
+    }
+
+    #block-views-block-front-page-news-block-3 h2 {
+        font-size: 2.4rem;
+    }
+
+    #events_container .col-3,#events_container .col-5 {
+        clear: none;
+    }
+
+    #events_container .col-4 {
+        clear: left;
+    }
+
+    .view-id-unit_news .row-1 .col-3,.view-id-unit_news .row-4 .col-2 {
+        clear: left;
+    }
+}
+
+@media only screen and (min-width : 992px) {
+    #hero {
+        min-height:500px;
+    }
+
+    h1.group-hero-project-mobile {
+        display: none;
+    }
+
+    h1.group-hero-project-desktop {
+        display: block;
+    }
+
+    .group-hero-project-noimage {
+        display: block;
+    }
+
+    .group-hero-project-content {
+        margin-top: 50px;
+    }
+
+    .shadow {
+        min-height: 270px;
+    }
+
+    #hero h2 {
+        margin: 0 0 4rem 0;
+    }
+
+    #block-lpnushortcutstop4 .col-xs-6 {
+        min-height: 124px;
+    }
+
+    #block-lpnushortcutstop4 h2 {
+        font-size: 1.8rem;
+    }
+
+    #logos_container {
+        padding: 1rem 0;
+    }
+
+    #logos_container img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 175px;
+    }
+
+    #featured_container h2 {
+        font-size: 2.4rem;
+    }
+
+    #events_container {
+        padding: 3rem 0 3rem 0;
+    }
+
+    #block-views-block-front-page-news-block-3 .col-3 {
+        clear: none;
+    }
+
+    .view-id-unit_news .row-1 .col-3,.view-id-unit_news .row-4 .col-2 {
+        clear: none;
+    }
+
+    .view-id-unit_news .row:after {
+        clear: both;
+    }
+}
+
+@media only screen and (min-width : 1200px) {
+    #hero {
+        min-height:550px;
+    }
+
+    .shadow {
+        min-height: 295px;
+    }
+
+    #hero h2 {
+        font-size: 5rem;
+        margin: 0 0 5rem 0;
+    }
+
+    #block-lpnushortcutstop4 .col-xs-6 {
+        min-height: 134px;
+    }
+
+    #block-lpnushortcutstop4 h2 {
+        font-size: 2.1rem;
+    }
+
+    #featured_container h2 {
+        font-size: 3rem;
+    }
+
+    #events_container h2,#block-views-block-front-page-news-block-3 h2 {
+        font-size: 2.8rem;
+    }
+
+    #block-views-block-front-page-news-block-3 h3 {
+        margin: 20px 0 30px 0;
+    }
+
+    #events_container .col-4 {
+        clear: none;
+    }
+}
+
+@media only screen and (min-width : 1600px) {
+    #hero {
+        min-height:650px;
+    }
+
+    .shadow {
+        min-height: 350px;
+    }
+
+    #hero h2 {
+        margin: 0 0 6.5rem 0;
+    }
+
+    #block-lpnushortcutstop4 .col-xs-6 {
+        min-height: 120px;
+    }
+
+    #block-lpnushortcutstop4 h2 {
+        font-size: 2.2rem;
+    }
+}
+
+.page-header {
+    border-bottom: none;
+}
+
+.group-hero-project-noimage h1.page-header {
+    margin-bottom: 0;
+}
+
+.breadcrumb,#block-views-block-breadcrumbs-dlia-h2020-block-1,#block-views-block-breadcrumbs-sertyfikat-ciot-block-1,#block-views-block-breadcrumbs-sertyfikat-ciot-block-2,#block-views-block-breadcrumbs-sertyfikat-ciot-block-3,.view-breadcrumbs-for-opportunities,#block-views-block-kataloh-ukhval-vchenoi-rady-block-1 {
+    margin: 1.5rem 0 0 0;
+    background-color: #fff;
+    border-bottom: 1px solid #eeeeee;
+    border-radius: 0;
+    padding: 8px 0;
+    color: #707070;
+}
+
+.breadcrumb > .active {
+    color: #707070;
+}
+
+.view-id-title_personality.view-display-id-block_2,.block-views-blockunit-abbreviations-block-1,.block-views-blockunit-abbreviations-block-2,.block-views-blockunit-abbreviations-block-3,.block-views-blockportal-breadcrumbs-block-1,.view-breadcrumbs-for-opportunities {
+    color: #707070;
+    margin: 1.5rem 0 0 0;
+    background-color: #fff;
+    border-bottom: 1px solid #eeeeee;
+    border-radius: 0;
+    padding: 8px 0;
+}
+
+.block-views-blockpage-last-update-block-1 {
+    margin-top: 3rem;
+}
+
+.block-views-blockpage-last-update-block-1 span {
+    border: 1px dotted #00a0e3;
+    padding: 5px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+
+.field--name-field-body-text {
+    margin-top: 1.5rem;
+}
+
+.field--name-field-contact-person {
+    background: #f6f6f6;
+    padding: 1.5rem 2rem;
+    margin-bottom: 1.5rem;
+    border-left: #00a0e3 3px solid;
+    line-height: 2.8rem;
+}
+
+.paragraph--type--contacts {
+    margin-bottom: 2rem;
+}
+
+h1.page-header {
+    margin-top: 1.5rem;
+}
+
+.path-group h1.page-header {
+    margin-top: 1.5rem;
+}
+
+.field--name-field-author,.field--name-field-data {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: normal;
+    color: #707070;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1.6rem;
+    padding: 5px;
+}
+
+.field--name-field-data {
+    float: left;
+    padding-left: 0;
+    padding-right: 7px;
+    border: 1px solid #00a0e3;
+    border-left: 0;
+    margin-right: 10px;
+}
+
+.field--name-field-news-more-details {
+    margin-top: 15px;
+}
+
+.field--name-field-news-more-details .field--label {
+    background: #f6f6f6;
+    margin-right: 0.5rem;
+    padding: 0 5px;
+}
+
+.page-node-type-news #block-views-block-dissertations-title-block-1 {
+    border-left: 2px solid #00a0e3;
+    padding-left: 2.4rem;
+    padding-bottom: 1rem;
+}
+
+.field--name-field-illustration {
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px dotted #00a0e3;
+    margin-bottom: 20px;
+}
+
+.field--name-field-pare {
+    margin: 15px 0;
+}
+
+.field--name-field-pare .field--item,.views-field-field-abbreviation .field-content {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: normal;
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 7px 3px 7px;
+    background: #f6f6f6;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    margin-bottom: 5px;
+}
+
+.field--name-field-pare .field--item a {
+    border-bottom: none;
+}
+
+.field--name-field-attachments {
+    margin: 3rem 0 1rem 0;
+    font-size: 2.1rem;
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: normal;
+}
+
+.field--name-field-attachments .file {
+    font-weight: normal;
+}
+
+.field--name-field-attachments .file-size {
+    color: #707070;
+}
+
+.field--name-field-attachments .file-link {
+    padding: 5px 0;
+}
+
+.field--name-field-attachments .field--label {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1.8rem;
+}
+
+@media only screen and (min-width : 480px) {
+}
+
+@media only screen and (min-width : 768px) {
+}
+
+@media only screen and (min-width : 992px) {
+}
+
+@media only screen and (min-width : 1200px) {
+    h1.page-header {
+        font-size:3.5rem;
+        margin-top: 2.5rem;
+    }
+
+    .path-group h1.page-header {
+        font-size: 4rem;
+        margin-top: 3rem;
+    }
+
+    .page-node-type-news h1.page-header {
+        font-size: 4rem;
+    }
+}
+
+@media only screen and (min-width : 1600px) {
+}
+
+.paragraph--type--person-with-description,.paragraph--type--person-with-description-2 {
+    clear: both;
+    overflow: auto;
+    margin-bottom: 3rem;
+}
+
+.paragraph--type--person-with-description .field--name-field-person-portrait,.paragraph--type--person-with-description-2 .field--name-field-person-portrait {
+    clear: both;
+}
+
+.paragraph--type--person-with-description .field--name-field-person-portrait img,.paragraph--type--person-with-description-2 .field--name-field-person-portrait img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragraph--type--person-with-description .field--name-field-person-name {
+    font-size: 2.1rem;
+    text-align: center;
+    margin: 0 0 1rem 0;
+}
+
+.paragraph--type--person-with-description-2 .field--name-field-person {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.paragraph--type--image-grid-2 {
+    background: rgba(245,245,245,0.9);
+    margin-top: 3rem;
+}
+
+.paragraph--type--image-grid-2 .fotorama__wrap {
+    padding: 10px 0;
+}
+
+.fotorama__active {
+}
+
+.field--name-field-image-description {
+    font-size: 1.4rem;
+    color: #444444;
+    font-style: italic;
+    text-align: center;
+    padding: 2rem;
+}
+
+.paragraph--type--image-grid-2 .field--name-field-image-description {
+    border-top: 1px solid #dcdcdc;
+}
+
+.field--name-field-single-image-field {
+    margin-top: 3rem;
+}
+
+.field--name-field-single-image-field img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragraph--type--single-image .field--name-field-image-description {
+    padding: 1.5rem 2rem 1.5rem 2rem;
+}
+
+@media only screen and (min-width : 480px) {
+    .paragraph--type--person-with-description .field--name-field-person-name {
+        text-align:left;
+    }
+}
+
+@media only screen and (min-width : 768px) {
+    .paragraph--type--person-with-description .field--name-field-person-portrait,.paragraph--type--person-with-description-2 .field--name-field-person-portrait {
+        float:left;
+        margin-right: 3rem;
+    }
+}
+
+@media only screen and (min-width : 992px) {
+}
+
+@media only screen and (min-width : 1200px) {
+}
+
+@media only screen and (min-width : 1600px) {
+}
+
+.view-display-id-page_1 .view-content {
+}
+
+.view-display-id-page_1 h2,.view-display-id-page_1 h3 {
+    text-align: left;
+}
+
+.view-display-id-page_1 .views-row {
+    display: inline-block;
+}
+
+.view-display-id-page_1 a {
+}
+
+.view-display-id-page_1 img {
+    float: left;
+    margin: 7px 30px 0 0;
+}
+
+.view-id-vypusknyky.view-display-id-page_1 img {
+    display: block;
+    margin: 0 auto;
+    float: initial;
+}
+
+a:hover .vypusknyky {
+    background: #00000005;
+}
+
+a:hover h4,a:hover p {
+    color: #0076A8;
+}
+}
+
+.view-id-active_projects.view-display-id-page_1 img {
+    float: left;
+    margin: 0 30px 0 0;
+}
+
+.view-display-id-page_1 h2 {
+    border-bottom: 1px dotted #252775;
+}
+
+.view-taxonomy-term.view-display-id-page_1 h2 {
+    border-bottom: none;
+}
+
+li.node-readmore {
+    display: none;
+}
+
+.view-taxonomy-term .feed-icons {
+    margin-top: 50px;
+}
+
+h3.events-list-teaser {
+    padding-top: 3px !important;
+    margin-top: 2.2rem !important;
+    margin-bottom: 5px !important;
+}
+
+.block-views-blockevents-block-1 .views-field-field-deadline-description {
+    margin-bottom: 1rem;
+}
+
+.block-views-blockevents-block-1 .views-field-field-deadline-description strong {
+    color: #707070;
+}
+
+.block-views-blockevents-block-1 h3 {
+    font-size: 2.4rem;
+    text-transform: uppercase;
+}
+
+.block-views-blockevents-block-1 .views-row {
+    border-top: 1px dotted #ccc;
+    padding-top: 1rem;
+}
+
+.block-views-blockunit-events-block-1 .view-content {
+    background: #f6f6f6;
+    padding: 15px;
+    padding-top: 0;
+    text-align: center;
+}
+
+.block-views-blockunit-events-block-1 .views-field-field-pochatok-kinec-podii {
+    padding: 7px 0;
+    margin-bottom: 7px;
+    border-bottom: 1px dotted #252775;
+}
+
+.block-views-blockunit-events-block-1 .view-content .views-row {
+    padding-top: 30px;
+}
+
+.block-views-blockunit-events-block-1 img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media only screen and (min-width : 480px) {
+}
+
+@media only screen and (min-width : 768px) {
+    .view-display-id-page_1 a {
+        position:relative;
+    }
+
+    .news-list-teaser {
+        position: relative;
+        top: 0;
+        left: 0;
+        padding-left: 140px;
+    }
+
+    .view-display-id-page_1 .field--name-field-author {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .view-display-id-page_1 h3 {
+        padding-top: 10px;
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (min-width : 992px) {
+}
+
+@media only screen and (min-width : 1200px) {
+    .block-views-blockunit-events-block-1 .view-content {
+        padding:30px;
+        padding-top: 0;
+    }
+}
+
+@media only screen and (min-width : 1600px) {
+}
+
+.block-views-blockfront-page-news-block-2 {
+    margin-top: 3rem;
+}
+
+.footer {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: normal;
+    background: #F7F7F7 linear-gradient(to bottom,#F7F7F7,#fff 150px);
+}
+
+.footer h2 {
+    margin: 0 0 2rem 0;
+    font-size: 2.4rem;
+}
+
+.footer ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.footer ul li {
+    margin-bottom: 10px;
+}
+
+.footer-icons a {
+    margin-bottom: 10px;
+    margin-right: 15px;
+    float: left;
+}
+
+.footer-ic a {
+    margin-bottom: 7px;
+    display: block;
+}
+
+.social-icon svg.svg-inline--fa {
+    font-size: 28px;
+    margin-right: 7px;
+}
+
+.social-icon {
+    margin-top: 24px;
+}
+
+.block-views-blocklogo-project-block-1 img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+}
+
+@media only screen and (min-width : 480px) {
+}
+
+@media only screen and (min-width : 768px) {
+}
+
+@media only screen and (min-width : 992px) {
+    .view-call-tematyka-konkursu,.block-views-blockunit-pages-block-1,.block-views-blockgroup-pages-on-page-new-block-1,.block-views-blockproject-pages-block-1,#block-views-block-portal-pages-block-1,#block-views-block-document-block-1,#block-views-block-breadcrumbs-sertyfikat-ciot-block-4,.block-views-blockvydavnytstvo-lp-block-1 {
+        border:1px solid #eeeeee;
+        border-bottom: none;
+        padding: 1.5rem 1.5rem 0 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .block-views-blockvydavnytstvo-lp-block-1 {
+        border-bottom: 1px solid #eeeeee;
+        background: #f6f6f6;
+    }
+
+    #block-konkursinkphorizon2020,#block-kursidlyaciot {
+        border: 1px solid #eeeeee;
+        padding: 1.5rem 1.5rem 0 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    #block-konkursinkphorizon2020 ul li a,#block-kursidlyaciot ul li a {
+        border-top: none;
+    }
+
+    .region-sidebar-second #block-views-block-document-block-1 ul li a,.region-sidebar-second #block-views-block-breadcrumbs-sertyfikat-ciot-block-4 ul li a {
+        display: block;
+        border-bottom: 1px solid #ededed;
+        border-top: none;
+        padding: 7px 0px 7px 5px;
+    }
+
+    #block-yunitidlyastorprouniversitet,#block-centrzabezpechennyayakostiosviti,#block-radaphd,#block-postiynodiyuchispecializovanivcheniradiogoloshennya {
+        border: 1px solid #eeeeee;
+        border-top: none;
+        padding: 0 1.5rem 0.8rem 1.5rem;
+        margin-top: -1.5rem;
+    }
+
+    #block-muzeynastoristoriiuniversitetu,#block-pereliknaukovikhfakhovikhvidan,#block-dlyapolitekhnikaekskursiyna {
+        border: 1px solid #eeeeee;
+        border-top: none;
+        padding: 0 1.5rem 0.8rem 1.5rem;
+        margin-top: -1.5rem;
+        border-bottom: none;
+        margin-bottom: 1.5rem;
+    }
+
+    .block-views-blockunit-pages-block-1 ul,.block-views-blockgroup-pages-on-page-new-block-1 ul,#block-yunitidlyastorprouniversitet ul,#block-muzeynastoristoriiuniversitetu ul,#block-centrzabezpechennyayakostiosviti ul,#block-pereliknaukovikhfakhovikhvidan ul,#block-radaphd ul,#block-views-block-document-block-1 ul,#block-views-block-breadcrumbs-sertyfikat-ciot-block-4 ul {
+        margin-bottom: 0;
+    }
+
+    #block-views-block-group-subgroups-block-1,#block-views-block-group-subgroups-block-2 {
+        border: 1px solid #a7ce39;
+        padding: 0 1.5rem 0.8rem 1.5rem;
+    }
+
+    #block-views-block-group-subgroups-block-1 {
+        border-top: none;
+    }
+
+    #block-views-block-group-subgroups-block-1 ul,#block-views-block-group-subgroups-block-2 ul {
+        margin-bottom: 0;
+    }
+
+    #block-views-block-group-subgroups-block-2 ul {
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (min-width : 1200px) {
+}
+
+@media only screen and (min-width : 1600px) {
+}
+
+.well.region.region-sidebar-second {
+    border: none;
+    background: none;
+    box-shadow: none;
+}
+
+.region-sidebar-second ul li a,#block-views-block-group-subgroups-block-2 ul li a {
+    display: block;
+    border-top: 1px solid #ededed;
+    padding: 7px 0px 7px 5px;
+}
+
+.block-views-blockvydavnytstvo-lp-block-1 {
+    margin-top: 10px;
+}
+
+.block-views-blockvydavnytstvo-lp-block-1 ul li a {
+    border-top: 1px solid #ccc;
+}
+
+.region-sidebar-second ul li a.is-active {
+    color: #12285d;
+    font-weight: bold;
+}
+
+.region-sidebar-second ul li {
+    list-style: none;
+}
+
+.region-sidebar-second ul {
+    padding-left: inherit;
+}
+
+h3.title-menu-block {
+    text-transform: uppercase;
+    font-size: 2.4rem;
+    letter-spacing: 0.4px;
+    line-height: 1.3;
+    color: #2C2C2C;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+h3.title-menu-block a {
+    color: #2c2c2c;
+}
+
+.well.region.region-sidebar-second {
+    padding-top: 0px;
+}
+
+section#block-views-block-pages-on-page-parent-block-1 {
+    margin-top: 30px;
+}
+
+.path-documents td.views-field.views-field-field-full-title {
+    width: 500px;
+}
+
+@media only screen and (min-width : 768px) {
+    .path-documents td.views-field.views-field-field-full-title {
+        width:500px;
+    }
+}
+
+@media only screen and (min-width : 992px) {
+    .path-documents td.views-field.views-field-field-full-title {
+        width:750px;
+    }
+}
+
+.paragraph--type--contacts {
+    display: inline-grid;
+}
+
+#views-exposed-form-scientific-developments-directory-page-1 .form-inline .form-control,#block-rozkritaformaresearch-unitpage-1 .form-inline .form-control {
+    width: 100%;
+}
+
+.handbook_text {
+    display: block;
+    width: 50px;
+    margin-left: 50px;
+    margin-top: -42px;
+}
+
+.handbook_lable img {
+    float: unset;
+    margin: unset;
+}
+
+.view-id-university_directory.view-display-id-page_1 .handbook_lable {
+    margin-left: 0%;
+}
+
+.view-id-university_directory.view-display-id-page_1 .handbook_text {
+    width: 100%;
+}
+
+@media only screen and (min-width : 360px) {
+    .zno_header {
+        text-align:center;
+        font-size: 18px;
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .zno_header_top {
+        display: block;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .handbook_lable {
+        display: block;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        width: 56%;
+        margin-left: 6%;
+    }
+
+    #edit-field-predmety-zno-target-id-shs-0-0,#edit-field-predmety-zno-target-id-shs-0-1,#edit-field-predmety-zno-target-id-shs-0-2 {
+        padding: 7px;
+        margin-right: 5px;
+    }
+}
+
+@media only screen and (min-width : 480px) {
+    .zno_header {
+        text-align:center;
+        font-size: 20px;
+        display: block;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .zno_header_top {
+        display: block;
+        margin-top: 20px;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .handbook_lable {
+        display: block;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        width: 30%;
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (min-width : 768px) {
+    .zno_header {
+        text-align:center;
+        font-size: 28px;
+        display: block;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .zno_header_top {
+        display: block;
+        margin-top: 50px;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .handbook_lable {
+        display: block;
+        margin-bottom: 25px;
+        margin-top: 25px;
+        width: 20%;
+        margin-left: 40%;
+    }
+}
+
+@media only screen and (min-width : 992px) {
+    .zno_header {
+        text-align:center;
+        font-size: 28px;
+        display: block;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .zno_header_top {
+        display: block;
+        margin-top: 50px;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .handbook_lable {
+        display: block;
+        margin-bottom: 25px;
+        margin-top: 25px;
+        width: 16%;
+        margin-left: 42%;
+    }
+}
+
+@media only screen and (min-width : 1200px) {
+}
+
+.view-id-dubliuvannia_university_directory .view-header {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#block-views-block-pro-osvitni-programy-block-1 {
+    display: block;
+    width: min-content;
+}
+
+#block-views-block-pro-osvitni-programy-block-2 {
+    display: block;
+    width: min-content;
+}
+
+#block-views-block-pro-osvitni-programy-block-3 {
+    display: block;
+    width: min-content;
+}
+
+#block-views-block-pro-osvitni-programy-block-5 {
+    display: block;
+    width: min-content;
+}
+
+.view.view-pro-osvitni-programy.view-id-pro_osvitni_programy.view-display-id-block_1 caption {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.view.view-pro-osvitni-programy.view-id-pro_osvitni_programy.view-display-id-block_2 caption {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.view.view-pro-osvitni-programy.view-id-pro_osvitni_programy.view-display-id-block_3 caption {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.view.view-pro-osvitni-programy.view-id-pro_osvitni_programy.view-display-id-block_1 .view-header {
+    padding: 5px 20px;
+    margin: 25px 0px;
+    font-size: 14px;
+    border-left: 5px solid #eee;
+    display: block;
+    width: 80%;
+}
+
+.view.view-pro-osvitni-programy.view-id-pro_osvitni_programy.view-display-id-block_2 .view-header {
+    padding: 5px 20px;
+    margin: 25px 0px;
+    font-size: 14px;
+    border-left: 5px solid #eee;
+    display: block;
+    width: 80%;
+}
+
+.view.view-pro-osvitni-programy.view-id-pro_osvitni_programy.view-display-id-block_3 .view-header {
+    padding: 5px 20px;
+    margin: 25px 0px;
+    font-size: 14px;
+    border-left: 5px solid #eee;
+    display: block;
+    width: 80%;
+}
+
+#block-views-block-pro-osvitni-programy-block-1 {
+    font-family: 'Roboto Condensed';
+}
+
+#views-exposed-form-pro-osvitni-programy-block-1 {
+    margin: 20px 0px;
+}
+
+#block-views-block-pro-osvitni-programy-block-2 {
+    font-family: 'Roboto Condensed';
+}
+
+#views-exposed-form-pro-osvitni-programy-block-2 {
+    margin: 20px 0px;
+}
+
+#block-views-block-pro-osvitni-programy-block-3 {
+    font-family: 'Roboto Condensed';
+}
+
+#views-exposed-form-pro-osvitni-programy-block-3 {
+    margin: 20px 0px;
+}
+
+.programy-vizytiv-ekspertno-field {
+    font-size: 1.3rem;
+    min-width: 130px;
+}
+
+p.research-pr {
+    margin-top: 7px;
+    margin-bottom: 3px;
+}
+
+section#block-views-block-unit-abbreviations-block-4 .views-field.views-field-nothing {
+    margin-bottom: 1.5rem;
+    margin-top: -1.5rem;
+}
+
+#block-lpnu-main-menu .iard,#block-lpnu-main-menu .iapo,#block-lpnu-main-menu .ibis,#block-lpnu-main-menu .igdg,#block-lpnu-main-menu .idn,#block-lpnu-main-menu .igsn,#block-lpnu-main-menu .iesk,#block-lpnu-main-menu .iimt,#block-lpnu-main-menu .ikni,#block-lpnu-main-menu .ikta,#block-lpnu-main-menu .imfn,#block-lpnu-main-menu .inem,#block-lpnu-main-menu .ippo,#block-lpnu-main-menu .ippt,#block-lpnu-main-menu .istr,#block-lpnu-main-menu .itre,#block-lpnu-main-menu .ikhkht,#block-lpnu-main-menu .miok {
+    padding: 0px 20px;
+}
+
+.lang-zh-hans #block-lpnu-main-menu .dropdown-menu a {
+    padding: 4px 20px !important;
+}
+
+#block-lpnu-main-menu a::before {
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 0.0625em;
+    display: inline-block;
+    width: 40px;
+    margin-right: 10px;
+    margin-left: -10px;
+    padding: 5px 0px;
+}
+
+@media only screen and (min-width : 360px) {
+    #block-lpnu-main-menu a::before {
+        width:50px;
+    }
+}
+
+@media only screen and (min-width : 480px) {
+    #block-lpnu-main-menu a::before {
+        padding:3px 0px;
+    }
+}
+
+@media only screen and (min-width : 768px) {
+}
+
+@media only screen and (min-width : 992px) {
+}
+
+@media only screen and (min-width : 1200px) {
+}
+
+.lang-uk #block-lpnu-main-menu .iapo::before {
+    content: "ІАДУ ";
+}
+
+.lang-uk #block-lpnu-main-menu .iard::before {
+    content: "ІАРД ";
+}
+
+.lang-uk #block-lpnu-main-menu .ibis::before {
+    content: "ІБІС ";
+}
+
+.lang-uk #block-lpnu-main-menu .igdg::before {
+    content: "ІГДГ ";
+}
+
+.lang-uk #block-lpnu-main-menu .igsn::before {
+    content: "ІГСН ";
+}
+
+.lang-uk #block-lpnu-main-menu .idn::before {
+    content: "ІДН ";
+}
+
+.lang-uk #block-lpnu-main-menu .iesk::before {
+    content: "ІЕСК ";
+}
+
+.lang-uk #block-lpnu-main-menu .iimt::before {
+    content: "ІМІТ ";
+}
+
+.lang-uk #block-lpnu-main-menu .ikni::before {
+    content: "ІКНІ ";
+}
+
+.lang-uk #block-lpnu-main-menu .ikni::after {
+    content: " та ІТ";
+}
+
+.lang-uk #block-lpnu-main-menu .ikta::before {
+    content: "ІКТА ";
+}
+
+.lang-uk #block-lpnu-main-menu .ikta::after {
+    content: " ...";
+}
+
+.lang-uk #block-lpnu-main-menu .imfn::before {
+    content: "ІМФН ";
+}
+
+.lang-uk #block-lpnu-main-menu .imfn::after {
+    content: " та фунд. науки";
+}
+
+.lang-uk #block-lpnu-main-menu .inem::before {
+    content: "ІНЕМ ";
+}
+
+.lang-uk #block-lpnu-main-menu .ippo::before {
+    content: "ІППО ";
+}
+
+.lang-uk #block-lpnu-main-menu .ippt::before {
+    content: "ІППТ ";
+}
+
+.lang-uk #block-lpnu-main-menu .ippt::after {
+    content: " та перспективні технол.";
+}
+
+.lang-uk #block-lpnu-main-menu .istr::before {
+    content: "ІСТР ";
+}
+
+.lang-uk #block-lpnu-main-menu .itre::before {
+    content: "ІТРЕ ";
+}
+
+.lang-uk #block-lpnu-main-menu .itre::after {
+    content: " ...";
+}
+
+.lang-uk #block-lpnu-main-menu .ikhkht::before {
+    content: "ІХХТ ";
+}
+
+.lang-uk #block-lpnu-main-menu .miok::before {
+    content: "МІОК ";
+}
+
+.lang-uk #block-lpnu-main-menu .indu::before {
+    content: "ІНДУ ";
+}
+
+.lang-uk #block-lpnu-main-menu .ipmt::before {
+    content: "ІПМТ ";
+}
+
+@media only screen and (min-width : 480px) {
+    .lang-uk #block-lpnu-main-menu .ikni::after {
+        content:" та інформаційні технології";
+    }
+
+    .lang-uk #block-lpnu-main-menu .ikta::after {
+        content: " та метрологія";
+    }
+
+    .lang-uk #block-lpnu-main-menu .imfn::after {
+        content: " та фундаментальні науки";
+    }
+
+    .lang-uk #block-lpnu-main-menu .ippt::after {
+        content: " та перспективні технології";
+    }
+
+    .lang-uk #block-lpnu-main-menu .istr::after {
+        content: " (Інститут імені В'ячеслава Чорновола)";
+    }
+
+    .lang-uk #block-lpnu-main-menu .itre::after {
+        content: " та електронна техніка";
+    }
+}
+
+@media only screen and (min-width : 768px) {
+}
+
+@media only screen and (min-width : 992px) {
+}
+
+@media only screen and (min-width : 1200px) {
+}
+
+.lang-en #block-lpnu-main-menu .iapo::before {
+    content: "IPAG ";
+}
+
+.lang-en #block-lpnu-main-menu .iard::before {
+    content: "IARD ";
+}
+
+.lang-en #block-lpnu-main-menu .ibis::before {
+    content: "CEBS ";
+}
+
+.lang-en #block-lpnu-main-menu .igdg::before {
+    content: "IGD ";
+}
+
+.lang-en #block-lpnu-main-menu .igsn::before {
+    content: "IHSS ";
+}
+
+.lang-en #block-lpnu-main-menu .idn::before {
+    content: "IDE ";
+}
+
+.lang-en #block-lpnu-main-menu .iesk::before {
+    content: "IPEC ";
+}
+
+.lang-en #block-lpnu-main-menu .iimt::before {
+    content: "IMET ";
+}
+
+.lang-en #block-lpnu-main-menu .ikni::before {
+    content: "ICSIT ";
+}
+
+.lang-en #block-lpnu-main-menu .ikni::after {
+    content: " and IT";
+}
+
+.lang-en #block-lpnu-main-menu .ikta::before {
+    content: "ICTA ";
+}
+
+.lang-en #block-lpnu-main-menu .ikta::after {
+    content: " ...";
+}
+
+.lang-en #block-lpnu-main-menu .imfn::before {
+    content: "IMFS ";
+}
+
+.lang-en #block-lpnu-main-menu .imfn::after {
+    content: " and Fund. Sciences";
+}
+
+.lang-en #block-lpnu-main-menu .inem::before {
+    content: "IEM ";
+}
+
+.lang-en #block-lpnu-main-menu .ippo::before {
+    content: "IJPS ";
+}
+
+.lang-en #block-lpnu-main-menu .ippo::after {
+    content: " and Innov. Edu.";
+}
+
+.lang-en #block-lpnu-main-menu .ippt::before {
+    content: "IEAT ";
+}
+
+.lang-en #block-lpnu-main-menu .istr::before {
+    content: "ISD ";
+}
+
+.lang-en #block-lpnu-main-menu .itre::before {
+    content: "ITRE ";
+}
+
+.lang-en #block-lpnu-main-menu .itre::after {
+    content: " ...";
+}
+
+.lang-en #block-lpnu-main-menu .ikhkht::before {
+    content: "ICCT ";
+}
+
+.lang-en #block-lpnu-main-menu .miok::before {
+    content: "IECDR ";
+}
+
+.lang-en #block-lpnu-main-menu .ipmt::before {
+    content: "IPMT ";
+}
+
+@media only screen and (min-width : 480px) {
+    .lang-en #block-lpnu-main-menu .ikni::after {
+        content:" and Information Technologies";
+    }
+
+    .lang-en #block-lpnu-main-menu .ikta::after {
+        content: " and Metrology";
+    }
+
+    .lang-en #block-lpnu-main-menu .imfn::after {
+        content: " and Fundamental Sciences";
+    }
+
+    .lang-en #block-lpnu-main-menu .ippo::after {
+        content: " and Innovative Education";
+    }
+
+    .lang-en #block-lpnu-main-menu .istr::after {
+        content: " (Viacheslav Chornovil Institute)";
+    }
+
+    .lang-en #block-lpnu-main-menu .itre::after {
+        content: " and Electronic Engineering";
+    }
+}
+
+.lang-de #block-lpnu-main-menu .iapo::before {
+    content: "IVPA ";
+}
+
+.lang-de #block-lpnu-main-menu .iard::before {
+    content: "IARD ";
+}
+
+.lang-de #block-lpnu-main-menu .ibis::before {
+    content: "IBIGT ";
+}
+
+.lang-de #block-lpnu-main-menu .igdg::before {
+    content: "IFG ";
+}
+
+.lang-de #block-lpnu-main-menu .igsn::before {
+    content: "IHSW ";
+}
+
+.lang-de #block-lpnu-main-menu .idn::before {
+    content: "IFS ";
+}
+
+.lang-de #block-lpnu-main-menu .iesk::before {
+    content: "IESS ";
+}
+
+.lang-de #block-lpnu-main-menu .iimt::before {
+    content: "ITMV ";
+}
+
+.lang-de #block-lpnu-main-menu .ikni::before {
+    content: "IIIT ";
+}
+
+.lang-de #block-lpnu-main-menu .ikta::before {
+    content: "ICTAM ";
+}
+
+.lang-de #block-lpnu-main-menu .imfn::before {
+    content: "IAMG ";
+}
+
+.lang-de #block-lpnu-main-menu .inem::before {
+    content: "IWLM ";
+}
+
+.lang-de #block-lpnu-main-menu .ippo::before {
+    content: "IRPI ";
+}
+
+.lang-de #block-lpnu-main-menu .ippt::before {
+    content: "UFT ";
+}
+
+.lang-de #block-lpnu-main-menu .istr::before {
+    content: "INE ";
+}
+
+.lang-de #block-lpnu-main-menu .itre::before {
+    content: "ITRI ";
+}
+
+.lang-de #block-lpnu-main-menu .ikhkht::before {
+    content: "ICCT ";
+}
+
+.lang-de #block-lpnu-main-menu .miok::before {
+    content: "IBKDB ";
+}
+
+@media only screen and (min-width : 480px) {
+    .lang-de #block-lpnu-main-menu .ikta::after {
+        content:" und Metrologie";
+    }
+
+    .lang-de #block-lpnu-main-menu .imfn::after {
+        content: " und Grundlagenwissenschaften";
+    }
+
+    .lang-de #block-lpnu-main-menu .ippo::after {
+        content: " und Innovationslehre";
+    }
+
+    .lang-de #block-lpnu-main-menu .istr::after {
+        content: " (Viacheslav Chornovil-Institut)";
+    }
+
+    .lang-de #block-lpnu-main-menu .itre::after {
+        content: " und elektronisches Ingenieurwesen";
+    }
+}
+
+.lang-es #block-lpnu-main-menu .iapo::before {
+    content: "IAEP ";
+}
+
+.lang-es #block-lpnu-main-menu .iard::before {
+    content: "IAD ";
+}
+
+.lang-es #block-lpnu-main-menu .ibis::before {
+    content: "IICSE ";
+}
+
+.lang-es #block-lpnu-main-menu .igdg::before {
+    content: "IGD ";
+}
+
+.lang-es #block-lpnu-main-menu .igsn::before {
+    content: "IHCS ";
+}
+
+.lang-es #block-lpnu-main-menu .idn::before {
+    content: "IED ";
+}
+
+.lang-es #block-lpnu-main-menu .iesk::before {
+    content: "IIESC ";
+}
+
+.lang-es #block-lpnu-main-menu .iimt::before {
+    content: "IIMT ";
+}
+
+.lang-es #block-lpnu-main-menu .ikni::before {
+    content: "ICCTI ";
+}
+
+.lang-es #block-lpnu-main-menu .ikta::before {
+    content: "ITIAM ";
+}
+
+.lang-es #block-lpnu-main-menu .imfn::before {
+    content: "IMACF ";
+}
+
+.lang-es #block-lpnu-main-menu .inem::before {
+    content: "IEA ";
+}
+
+.lang-es #block-lpnu-main-menu .ippo::before {
+    content: "IJP ";
+}
+
+.lang-es #block-lpnu-main-menu .ippt::before {
+    content: "ITEA ";
+}
+
+.lang-es #block-lpnu-main-menu .istr::before {
+    content: "IDS ";
+}
+
+.lang-es #block-lpnu-main-menu .itre::before {
+    content: "IITREE ";
+}
+
+.lang-es #block-lpnu-main-menu .ikhkht::before {
+    content: "IQTQ ";
+}
+
+.lang-es #block-lpnu-main-menu .miok::before {
+    content: "IIECRD ";
+}
+
+@media only screen and (min-width : 480px) {
+    .lang-es #block-lpnu-main-menu .ikni::after {
+        content:" y Tecnologías de la Información";
+    }
+
+    .lang-es #block-lpnu-main-menu .ikta::after {
+        content: " y Metrología";
+    }
+
+    .lang-es #block-lpnu-main-menu .imfn::after {
+        content: " y Ciencias Fundamentales";
+    }
+
+    .lang-es #block-lpnu-main-menu .itre::after {
+        content: ", Radioelectrónica e Electrónica";
+    }
+
+    .lang-es #block-lpnu-main-menu .miok::after {
+        content: " y Relaciones de la Diáspora";
+    }
+}
+
+.lang-fr #block-lpnu-main-menu .iapo::before {
+    content: "IAFP ";
+}
+
+.lang-fr #block-lpnu-main-menu .iard::before {
+    content: "IAD ";
+}
+
+.lang-fr #block-lpnu-main-menu .ibis::before {
+    content: "IBIE ";
+}
+
+.lang-fr #block-lpnu-main-menu .igdg::before {
+    content: "IG ";
+}
+
+.lang-fr #block-lpnu-main-menu .igsn::before {
+    content: "ISHS ";
+}
+
+.lang-fr #block-lpnu-main-menu .idn::before {
+    content: "IDD ";
+}
+
+.lang-fr #block-lpnu-main-menu .iesk::before {
+    content: "IESG ";
+}
+
+.lang-fr #block-lpnu-main-menu .iimt::before {
+    content: "IIMT ";
+}
+
+.lang-fr #block-lpnu-main-menu .ikni::before {
+    content: "IITI ";
+}
+
+.lang-fr #block-lpnu-main-menu .ikta::before {
+    content: "ITIAM ";
+}
+
+.lang-fr #block-lpnu-main-menu .imfn::before {
+    content: "IMASF ";
+}
+
+.lang-fr #block-lpnu-main-menu .inem::before {
+    content: "IEG ";
+}
+
+.lang-fr #block-lpnu-main-menu .ippo::before {
+    content: "IDPEI ";
+}
+
+.lang-fr #block-lpnu-main-menu .ippt::before {
+    content: "ICTI ";
+}
+
+.lang-fr #block-lpnu-main-menu .istr::before {
+    content: "IDDNT ";
+}
+
+.lang-fr #block-lpnu-main-menu .itre::before {
+    content: "ITRE ";
+}
+
+.lang-fr #block-lpnu-main-menu .ikhkht::before {
+    content: "ICTC ";
+}
+
+.lang-fr #block-lpnu-main-menu .miok::before {
+    content: "IECRD ";
+}
+
+@media only screen and (min-width : 480px) {
+    .lang-fr #block-lpnu-main-menu .ikni::after {
+        content:" et des technologies de l'information";
+    }
+
+    .lang-fr #block-lpnu-main-menu .ikta::after {
+        content: ", de l'automation et de la métrologie";
+    }
+
+    .lang-fr #block-lpnu-main-menu .ippo::after {
+        content: " et de l'éducation innovante";
+    }
+
+    .lang-fr #block-lpnu-main-menu .itre::after {
+        content: " et d'électronique";
+    }
+
+    .lang-fr #block-lpnu-main-menu .miok::after {
+        content: " et des relations avec la diaspora";
+    }
+}
+
+.lang-it #block-lpnu-main-menu .iapo::before {
+    content: "IAFP ";
+}
+
+.lang-it #block-lpnu-main-menu .iard::before {
+    content: "IARD ";
+}
+
+.lang-it #block-lpnu-main-menu .ibis::before {
+    content: "ICSI ";
+}
+
+.lang-it #block-lpnu-main-menu .igdg::before {
+    content: "IGD ";
+}
+
+.lang-it #block-lpnu-main-menu .igsn::before {
+    content: "ISUS ";
+}
+
+.lang-it #block-lpnu-main-menu .idn::before {
+    content: "IED ";
+}
+
+.lang-it #block-lpnu-main-menu .iesk::before {
+    content: "ISEC ";
+}
+
+.lang-it #block-lpnu-main-menu .iimt::before {
+    content: "IIMT ";
+}
+
+.lang-it #block-lpnu-main-menu .ikni::before {
+    content: "IITI ";
+}
+
+.lang-it #block-lpnu-main-menu .ikta::before {
+    content: "IIAM ";
+}
+
+.lang-it #block-lpnu-main-menu .imfn::before {
+    content: "IMSB ";
+}
+
+.lang-it #block-lpnu-main-menu .inem::before {
+    content: "IEM ";
+}
+
+.lang-it #block-lpnu-main-menu .ippo::before {
+    content: "IGPF ";
+}
+
+.lang-it #block-lpnu-main-menu .ippt::before {
+    content: "IITA ";
+}
+
+.lang-it #block-lpnu-main-menu .istr::before {
+    content: "ISS ";
+}
+
+.lang-it #block-lpnu-main-menu .itre::before {
+    content: "ITRI ";
+}
+
+.lang-it #block-lpnu-main-menu .ikhkht::before {
+    content: "ICTC ";
+}
+
+.lang-it #block-lpnu-main-menu .miok::before {
+    content: "IIECR ";
+}
+
+@media only screen and (min-width : 480px) {
+    .lang-it #block-lpnu-main-menu .ippo::after {
+        content:" e formazione innovativa";
+    }
+
+    .lang-it #block-lpnu-main-menu .itre::after {
+        content: " e ingegneria elettronica";
+    }
+
+    .lang-it #block-lpnu-main-menu .miok::after {
+        content: " e le relazioni della diaspora";
+    }
+}
+
+.lang-pl #block-lpnu-main-menu .iapo::before {
+    content: "IAKP ";
+}
+
+.lang-pl #block-lpnu-main-menu .iard::before {
+    content: "IAD ";
+}
+
+.lang-pl #block-lpnu-main-menu .ibis::before {
+    content: "ILSI ";
+}
+
+.lang-pl #block-lpnu-main-menu .igdg::before {
+    content: "IG ";
+}
+
+.lang-pl #block-lpnu-main-menu .igsn::before {
+    content: "INHS ";
+}
+
+.lang-pl #block-lpnu-main-menu .idn::before {
+    content: "INO ";
+}
+
+.lang-pl #block-lpnu-main-menu .iesk::before {
+    content: "IESS ";
+}
+
+.lang-pl #block-lpnu-main-menu .iimt::before {
+    content: "IMIT ";
+}
+
+.lang-pl #block-lpnu-main-menu .ikni::before {
+    content: "IITI ";
+}
+
+.lang-pl #block-lpnu-main-menu .ikta::before {
+    content: "IIAM ";
+}
+
+.lang-pl #block-lpnu-main-menu .imfn::before {
+    content: "IMSNP ";
+}
+
+.lang-pl #block-lpnu-main-menu .inem::before {
+    content: "IEZ ";
+}
+
+.lang-pl #block-lpnu-main-menu .ippo::before {
+    content: "IPPIE ";
+}
+
+.lang-pl #block-lpnu-main-menu .ippt::before {
+    content: "IPZT ";
+}
+
+.lang-pl #block-lpnu-main-menu .istr::before {
+    content: "IRSC ";
+}
+
+.lang-pl #block-lpnu-main-menu .itre::before {
+    content: "ITERE ";
+}
+
+.lang-pl #block-lpnu-main-menu .ikhkht::before {
+    content: "ICTC ";
+}
+
+.lang-pl #block-lpnu-main-menu .miok::before {
+    content: "MIEKD ";
+}
+
+@media only screen and (min-width : 480px) {
+    .lang-pl #block-lpnu-main-menu .ippt::after {
+        content:" i Zaawansowanych Technologii";
+    }
+
+    .lang-pl #block-lpnu-main-menu .istr::after {
+        content: " (Instytut im. V.Czornowola)";
+    }
+
+    .lang-pl #block-lpnu-main-menu .itre::after {
+        content: " i Elektroniki";
+    }
+}
+
+.view-id-kolektyv_pratsivnykiv_kafedry.view-display-id-block_2 .row {
+    margin-bottom: 25px;
+}
+
+img.dep_staff_photo {
+    aspect-ratio: 1 / 1;
+    height: auto;
+    width: 40%;
+    max-width: 13.5rem;
+    border-radius: 9999px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    float: left;
+}
+
+.dep_staff_info h3 {
+    font-size: 16px;
+}
+
+.view-kolektyv-pratsivnykiv-kafedry.view-id-kolektyv_pratsivnykiv_kafedry.view-display-id-block_2 .views-field.views-field-nothing {
+    flex-direction: row;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 3.75rem;
+    padding-bottom: 3.75rem;
+}
+
+.dep_staff_info {
+    margin-top: 1rem;
+    width: auto;
+    flex: 1 1 0%;
+    padding-left: 16rem;
+}
+
+.dep_staff_infod {
+    font-size: 14px;
+    color: #3b4347;
+}
+
+@media only screen and (min-width : 360px) {
+}
+
+@media only screen and (min-width : 480px) {
+}
+
+@media only screen and (min-width : 768px) {
+}
+
+@media only screen and (min-width : 992px) {
+}
+
+@media only screen and (min-width : 1200px) {
+}
