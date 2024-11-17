@@ -1,0 +1,161 @@
+/* Основні стилі для тіла сторінки */
+body {
+    font-family: Arial, sans-serif; /* Основний шрифт */
+    margin: 0; /* Вилучення відступів */
+    padding: 0; /* Вилучення внутрішніх відступів */
+}
+
+/* Стилі для заголовка і меню */
+.header {
+    background-color: #333; /* Фон заголовка */
+    padding: 10px; /* Внутрішній відступ */
+}
+
+.navbar {
+    display: flex; /* Гнучкий контейнер для вирівнювання меню */
+    align-items: center; /* Вирівнювання по вертикалі */
+    justify-content: center; /* Центрування меню */
+}
+
+.menu-toggle {
+    display: none; /* Сховати чекбокс для десктопів */
+}
+
+.menu {
+    list-style: none; /* Вилучення стандартних стилів списків */
+    display: flex; /* Відображення горизонтальним рядом */
+    gap: 15px; /* Проміжок між пунктами */
+    margin: 0; /* Вилучення зовнішніх відступів */
+    padding: 0; /* Вилучення внутрішніх відступів */
+}
+
+.menu li a {
+    color: white; /* Колір тексту пунктів меню */
+    text-decoration: none; /* Вилучення підкреслення */
+}
+
+.menu-icon {
+    display: none; /* Іконка меню для мобільних */
+    font-size: 24px; /* Розмір іконки */
+    color: white; /* Колір іконки */
+    cursor: pointer; /* Зміна курсору на вказівник */
+}
+
+/* Основний контейнер */
+.container {
+    display: grid; /* Сітка для контенту */
+    grid-template-columns: 80% 20%; /* Основна область + бокова панель */
+    gap: 20px; /* Відступ між елементами */
+    max-width: 1200px; /* Максимальна ширина сторінки */
+    margin: 0 auto; /* Центрування сторінки */
+    padding: 20px; /* Внутрішній відступ */
+}
+
+/* Сітка новин */
+.news-grid {
+    display: grid; /* Сітка новин */
+    grid-template-columns: repeat(3, 1fr); /* Три новини в рядок */
+    gap: 20px; /* Відступи між новинами */
+}
+
+.news-item {
+    border: 1px solid #ddd; /* Рамка навколо новини */
+    padding: 10px; /* Внутрішній відступ */
+    background-color: #f9f9f9; /* Фон новини */
+    text-align: center; /* Вирівнювання тексту по центру */
+}
+
+.news-item img {
+    max-width: 100%; /* Адаптація зображення по ширині */
+    height: auto; /* Збереження пропорцій */
+}
+
+/* Бокова панель з рекламою */
+.aside-ad {
+    display: flex; /* Вертикальна колонка */
+    flex-direction: column;
+    gap: 20px; /* Відступ між рекламами */
+}
+
+.ad-item img {
+    width: 100%; /* Ширина зображень на всю панель */
+    height: auto; /* Адаптація пропорцій */
+}
+
+/* Медіа-квері для адаптивності */
+
+/* Адаптивне меню і структура для екранів до 767px */
+@media (max-width: 767px) {
+    .container {
+        display: flex; /* Перехід на вертикальну структуру */
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .menu {
+        display: none; /* Ховати меню */
+        flex-direction: column; /* Вертикальне меню */
+        background-color: #333;
+        position: absolute;
+        top: 50px; /* Розташування під заголовком */
+        left: 0;
+        width: 100%;
+        padding: 0;
+    }
+
+    .menu li {
+        text-align: center; /* Центрування пунктів меню */
+        padding: 10px 0; /* Відступи між пунктами */
+    }
+
+    .menu-icon {
+        display: block; /* Показ іконки меню */
+    }
+
+    /* Показувати меню при активному чекбоксі */
+    .menu-toggle:checked + .menu-icon + .menu {
+        display: flex;
+    }
+
+    .aside-ad {
+        width: 100%; /* Розтягнення бокової панелі на всю ширину */
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ad-item {
+        width: 100%; /* Рекламний блок на всю ширину */
+    }
+
+    .news-grid {
+        grid-template-columns: repeat(1, 1fr); /* Одна новина в рядок */
+    }
+}
+
+/* Для екранів від 768px до 1024px */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .news-grid {
+        grid-template-columns: repeat(2, 1fr); /* Дві новини в рядок */
+    }
+}
+
+/* Для екранів від 1025px до 1200px */
+@media (min-width: 1025px) and (max-width: 1200px) {
+    .news-grid {
+        grid-template-columns: repeat(3, 1fr); /* Три новини в рядок */
+    }
+}
+
+/* Для екранів від 1201px до 1440px */
+@media (min-width: 1201px) and (max-width: 1440px) {
+    .news-grid {
+        grid-template-columns: repeat(4, 1fr); /* Чотири новини в рядок */
+    }
+}
+
+/* Для екранів від 1441px і більше */
+@media (min-width: 1441px) {
+    .news-grid {
+        grid-template-columns: repeat(6, 1fr); /* Шість новин в рядок */
+    }
+}
